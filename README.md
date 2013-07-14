@@ -3,10 +3,11 @@ Clean Google URL
 This little GUI program cleans URL that Google search returns on its web page. 
 It returns cleaned URL.
 
+Download jar from: https://sourceforge.net/projects/clgu/files/latest/download 
+
 
 ##Usage:##
 
- 
     java -jar CleanGoogleUrl.jar
 	
 ![Image](CleanGoogleUrl/src/info/eucenje/tools/images/screen.png?raw=true)	
