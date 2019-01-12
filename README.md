@@ -6,7 +6,8 @@ It returns cleaned URL.
 Download jar from: https://sourceforge.net/projects/clgu/files/latest/download 
 
 
-##Usage:##
+Usage
+-----
 
     java -jar CleanGoogleUrl.jar
 	
